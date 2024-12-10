@@ -2,7 +2,7 @@
 class contents{
     public function index_content(){
         ?>
-        <h1>Hello World!!</h1>
+        <h1>Hello is World!!</h1>
         <?php
     }
 }
